@@ -3,6 +3,11 @@ lanttumurska
 
 Lanttu.ry:n lanihallintajärjestelmä eli lanttumurska
 
+lanttumurska on tehty Djangon pohjalle ja se tekee kaiken!
+
+Näpertelijät:
+	Teemu Heikkilä <teemu.heikkila@pistoke.org>
+	
 events
  * Kompojen tiedot
  * Kompojen pisteet ja ottelukaaviot
