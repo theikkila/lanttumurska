@@ -4,20 +4,20 @@ lanttumurska
 Lanttu.ry:n lanihallintajärjestelmä eli lanttumurska
 
 events
-	* Kompojen tiedot
-	* Kompojen pisteet ja ottelukaaviot
-	* Kompoihin ilmoittautuminen
-	* Kompopalautukset
-	* Kompojen aikataulut
+ * Kompojen tiedot
+ * Kompojen pisteet ja ottelukaaviot
+ * Kompoihin ilmoittautuminen
+ * Kompopalautukset
+ * Kompojen aikataulut
 
 polls
-	* Äänestykset
-	* Kyselyt
-	* Tilaukset (pizza, tukipyynnöt, ?)
+ * Äänestykset
+ * Kyselyt
+ * Tilaukset (pizza, tukipyynnöt, ?)
 
 staticpages
-	* Staattiset sivut, esim säännöt
+ * Staattiset sivut, esim säännöt
 
 filebank
-	* Käyttäjien lähettämät tiedostot
-	* Orgin jakamat tiedostot
+ * Käyttäjien lähettämät tiedostot
+ * Orgin jakamat tiedostot
